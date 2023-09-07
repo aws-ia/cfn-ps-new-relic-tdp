@@ -1,5 +1,5 @@
 project:
-  name: quickstart-new-relic-tdp
+  name: cfn-ps-new-relic-tdp
   owner: rkaul@newrelic.com
   s3_regional_buckets: True
   shorten_stack_name: True
